@@ -26,7 +26,13 @@ java/
 │       ├── operatorDemo5.java
 │       ├── operatorDemo6.java
 │       ├── operatorDemo7.java
-│       └── operatorDemo8.java
+│       ├── operatorDemo8.java
+│       ├── operatorDemo9.java
+│       ├── operatorDemo10.java
+│       ├── operatorDemo11.java
+│       ├── operatorDemo12.java
+│       ├── operatorDemo13.java
+│       └── operatorDemo14.java
 ├── .gitignore
 └── README.md
 ```
@@ -62,7 +68,13 @@ java/
 | [operatorDemo5.java](src/operator/operatorDemo5.java) | 类型转换：short 相加结果为 int 的强制转换解决方案 |
 | [operatorDemo6.java](src/operator/operatorDemo6.java) | 类型转换练习：大写字母转换为小写字母（A → a，通过 +32 实现） |
 | [operatorDemo7.java](src/operator/operatorDemo7.java) | 赋值运算符：=、+=、-=、*=、/=、%= 的使用及优先级 |
-| [operatorDemo8.java](src/operator/operatorDemo8.java) | 综合练习：键盘录入身高比较 + 判断三位数是否能被3整除 |
+| [operatorDemo8.java](src/operator/operatorDemo8.java) | 键盘录入你和基友的身高，比较谁更高（包含相等的情况） |
+| [operatorDemo9.java](src/operator/operatorDemo9.java) | 键盘录入一个3位数，判断是否能被3整除 |
+| [operatorDemo10.java](src/operator/operatorDemo10.java) | 逻辑运算符 &：判断数字是否在1~10之间 |
+| [operatorDemo11.java](src/operator/operatorDemo11.java) | 逻辑运算符 |：判断数字是否不在1~10之间 |
+| [operatorDemo12.java](src/operator/operatorDemo12.java) | 逻辑运算符 &&：判断四位数是否为回文数（如 1221） |
+| [operatorDemo13.java](src/operator/operatorDemo13.java) | 逻辑运算符 ||：判断一个两位数是否为"7的有缘数"（包含7或是7的倍数） |
+| [operatorDemo14.java](src/operator/operatorDemo14.java) | 三元运算符：求两个整数的较大值 |
 
 ## 环境要求
 
