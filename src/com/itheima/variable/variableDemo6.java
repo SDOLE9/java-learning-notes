@@ -21,6 +21,5 @@ public class variableDemo6 {
 
 
 
-
     }
 }

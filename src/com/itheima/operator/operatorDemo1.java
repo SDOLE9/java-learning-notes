@@ -1,4 +1,4 @@
-package operator;
+package com.itheima.operator;
 
 public class operatorDemo1 {
     static void main() {
@@ -29,6 +29,5 @@ public class operatorDemo1 {
         System.out.println(c / d);
         System.out.println(c % d);
 
-//
     }
 }

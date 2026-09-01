@@ -1,4 +1,4 @@
-package operator;
+package com.itheima.operator;
 
 import java.util.Scanner;
 

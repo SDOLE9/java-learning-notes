@@ -1,4 +1,4 @@
-package operator;
+package com.itheima.operator;
 
 public class operatorDemo5 {
     static void main() {

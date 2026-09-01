@@ -1,4 +1,4 @@
-package operator;
+package com.itheima.operator;
 
 import java.util.Scanner;
 
@@ -34,7 +34,6 @@ public class operatorDemo3 {
         System.out.println(hour + "小时" + minute + "分钟" + second + "秒");
 
 //        缺少部分后面学习后会改进，目前这个是基础的逻辑运算
-
 
     }
 }
