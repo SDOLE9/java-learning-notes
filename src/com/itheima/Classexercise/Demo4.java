@@ -13,6 +13,11 @@ public class Demo4 {
         System.out.println("请输入体重（单位千克）:");
         double weight = sc.nextDouble();
 
+//        输入合法性校验：身高体重必须大于0，否则不进入计算
+        if (tall <= 0 || weight <= 0) {
+            System.out.println("输入的身高体重必须大于0");
+            return;
+        }
         double bmi = weight/(tall*tall);
         if (bmi>=30){
             System.out.println("您的身体状态为严重肥胖，健康风险为严重增加");
