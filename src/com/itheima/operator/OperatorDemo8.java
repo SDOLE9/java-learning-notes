@@ -2,7 +2,7 @@ package com.itheima.operator;
 
 import java.util.Scanner;
 
-public class operatorDemo8 {
+public class OperatorDemo8 {
     static void main() {
         /*
             练习1:键盘录入你和你好基友的身高比一比谁更高?

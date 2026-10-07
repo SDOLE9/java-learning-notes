@@ -1,6 +1,6 @@
 package com.itheima.literal;
 
-public class literalDemo1 {
+public class LiteralDemo1 {
     static void main() {
         //输出恐龙的信息：霸王龙 11岁 12.5 公
 

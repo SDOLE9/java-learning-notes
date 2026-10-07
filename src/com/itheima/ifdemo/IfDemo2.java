@@ -14,12 +14,10 @@ public class IfDemo2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入技能的伤害值：");
         int x = sc.nextInt();
-//        计算当前的血量
-        hp = hp - x;
-
-//        使用if判断
-        if (x > hp) {
-            hp = 1 ;
+        if (x >= hp) {        // 先拿伤害去跟「原始hp」比 → 真正判断是否致死
+            hp = 1;           // 致死，设为最低血量
+        } else {
+            hp = hp - x;      // 没致死，正常扣血
         }
 //Scanner定义技能回复血量
         System.out.println("请输入技能回复的血量：");

@@ -2,7 +2,7 @@ package com.itheima.operator;
 
 import java.util.Scanner;
 
-public class operatorDemo12 {
+public class OperatorDemo12 {
     static void main() {
         //需求1:键盘录入一个四位整数,判断这个数字是否为回文数。
 

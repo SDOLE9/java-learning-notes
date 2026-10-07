@@ -1,6 +1,6 @@
 package com.itheima.operator;
 
-public class operatorDemo13 {
+public class OperatorDemo13 {
     static void main() {
 
         // 寻找7的有缘数,定义一个两位整数,只要该数字包含7或者是7的倍数,就是7的有缘数

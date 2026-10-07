@@ -1,6 +1,6 @@
 package com.itheima.operator;
 
-public class operatorDemo7 {
+public class OperatorDemo7 {
     static void main() {
         /*
         直接赋值  =

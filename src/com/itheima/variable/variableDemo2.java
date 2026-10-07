@@ -1,6 +1,6 @@
 package com.itheima.variable;
 
-public interface variableDemo2 {
+public class variableDemo2 {
     static void main() {
 /*      我方:叉子
         攻击:220

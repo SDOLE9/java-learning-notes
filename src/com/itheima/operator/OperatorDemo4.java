@@ -1,6 +1,6 @@
 package com.itheima.operator;
 
-public class operatorDemo4 {
+public class OperatorDemo4 {
     static void main() {
 //练习一:
 byte b = 100;

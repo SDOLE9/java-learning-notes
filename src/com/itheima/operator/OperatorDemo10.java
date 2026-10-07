@@ -2,7 +2,7 @@ package com.itheima.operator;
 
 import java.util.Scanner;
 
-public class operatorDemo10 {
+public class OperatorDemo10 {
     static void main() {
         /*
         练习1:键盘录入一个整数,判断这个数字是否在1~10之间

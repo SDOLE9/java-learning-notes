@@ -1,6 +1,6 @@
 package com.itheima.operator;
 
-public class operatorDemo14 {
+public class OperatorDemo14 {
     static void main() {
         // 利用三元运算符,求两个整数的较大值
         // 如果 a > b 是真的，就把 a 赋值给 max；否则，就把 b 赋值给 max。   a > b ? a : b

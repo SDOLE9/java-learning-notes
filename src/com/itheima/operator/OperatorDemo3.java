@@ -2,7 +2,7 @@ package com.itheima.operator;
 
 import java.util.Scanner;
 
-public class operatorDemo3 {
+public class OperatorDemo3 {
     static void main() {
 //        引入scanner打工人
         Scanner sc = new Scanner(System.in);

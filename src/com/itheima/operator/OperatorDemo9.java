@@ -2,7 +2,7 @@ package com.itheima.operator;
 
 import java.util.Scanner;
 
-public class operatorDemo9 {
+public class OperatorDemo9 {
     static void main() {
 
 //        练习2:键盘录入一个3位数,判断是否能被3整除
