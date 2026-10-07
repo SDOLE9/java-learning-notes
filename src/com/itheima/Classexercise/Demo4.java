@@ -19,11 +19,11 @@ public class Demo4 {
         }else if (bmi>=27){
             System.out.println("您的身体状态为肥胖，健康风险为中度增加");
         }else  if (bmi>=24){
-            System.out.println("您的身体状态为肥胖，健康风险为增加");
+            System.out.println("您的身体状态为偏胖，健康风险为增加");
         }else  if (bmi>=18.5){
-            System.out.println("您的身体状态为消瘦，健康风险为部分增加");
+            System.out.println("您的身体状态为正常，健康风险为部分正常");
         }else {
-            System.out.println("请输入正确的BMI数值");
+            System.out.println("您的身体状态为消瘦，健康风险为部分增加");
         }
     }
 }
