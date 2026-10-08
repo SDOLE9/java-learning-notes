@@ -16,6 +16,8 @@ java/
 │       │   ├── operatorDemo1.java ~ operatorDemo14.java
 │       ├── ifdemo/               # 分支语句（if）相关练习
 │       │   ├── IfDemo1.java ~ IfDemo8.java
+│       ├── switchdemo/           # switch 分支语句练习
+│       │   ├── SwitchDemo1.java ~ SwitchDemo5.java
 │       └── Classexercise/        # 课堂综合练习题
 │           ├── Demo1.java ~ Demo7.java
 ├── .gitignore
@@ -82,13 +84,23 @@ java/
 | Demo2.java | 牛妹数：偶数且大于 50 输出 yes/no     |
 | Demo3.java | 冲卡赠送：多档充值阶梯赠送金额计算          |
 | Demo4.java | BMI 数值对应身体状态与健康风险分级输出      |
-| Demo5.java | 电费计算（占位）                   |
+| Demo5.java | 电费阶梯计价：≤100度0.5元、100~200度0.8元、>200度1.2元 |
 | Demo6.java | 三角形判断：先判是否构成三角形，再分类等边/等腰/直角/普通（含浮点比较注释） |
 | Demo7.java | 坐标点位置判断：原点 / 坐标轴 / 四个象限（排除法） |
 
+### 6. switch 分支 switchdemo
+
+| 文件 | 内容说明 |
+|------|----------|
+| SwitchDemo1.java | switch 基础：录入星期数输出减肥计划（case/break/default） |
+| SwitchDemo2.java | switch 注意点笔记：表达式类型、值不允许重复、break、default |
+| SwitchDemo3.java | default 的位置与省略笔记 |
+| SwitchDemo4.java | case 穿透（fall-through）讲解 + 季节判断练习 |
+| SwitchDemo5.java | JDK14 新特性：箭头标签、多值 case、switch 表达式、yield + 计算器练习 |
+
 ## 环境要求
 
-- JDK 8+
+- JDK 8+（SwitchDemo5 的箭头标签/switch 表达式等新特性需要 JDK 14+）
 
 - IntelliJ IDEA / Eclipse / VS Code 均可
 
